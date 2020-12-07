@@ -1,0 +1,16 @@
+C:\Users\jochen.JOTGE\source\repos\EF\bin\Debug\net5.0\EF.exe
+C:\Users\jochen.JOTGE\source\repos\EF\bin\Debug\net5.0\EF.deps.json
+C:\Users\jochen.JOTGE\source\repos\EF\bin\Debug\net5.0\EF.runtimeconfig.json
+C:\Users\jochen.JOTGE\source\repos\EF\bin\Debug\net5.0\EF.runtimeconfig.dev.json
+C:\Users\jochen.JOTGE\source\repos\EF\bin\Debug\net5.0\EF.dll
+C:\Users\jochen.JOTGE\source\repos\EF\bin\Debug\net5.0\ref\EF.dll
+C:\Users\jochen.JOTGE\source\repos\EF\bin\Debug\net5.0\EF.pdb
+C:\Users\jochen.JOTGE\source\repos\EF\obj\Debug\net5.0\EF.csprojAssemblyReference.cache
+C:\Users\jochen.JOTGE\source\repos\EF\obj\Debug\net5.0\EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jochen.JOTGE\source\repos\EF\obj\Debug\net5.0\EF.AssemblyInfoInputs.cache
+C:\Users\jochen.JOTGE\source\repos\EF\obj\Debug\net5.0\EF.AssemblyInfo.cs
+C:\Users\jochen.JOTGE\source\repos\EF\obj\Debug\net5.0\EF.csproj.CoreCompileInputs.cache
+C:\Users\jochen.JOTGE\source\repos\EF\obj\Debug\net5.0\EF.dll
+C:\Users\jochen.JOTGE\source\repos\EF\obj\Debug\net5.0\ref\EF.dll
+C:\Users\jochen.JOTGE\source\repos\EF\obj\Debug\net5.0\EF.pdb
+C:\Users\jochen.JOTGE\source\repos\EF\obj\Debug\net5.0\EF.genruntimeconfig.cache
