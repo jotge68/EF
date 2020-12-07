@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DqM/X/oyWKSCGXeEIkDnnawIJeZ+cIH93dRkqzSbKkWVJKs4OcIxoy96owM7umieJvqPiAArm5lRCxb27lmj6w==",
+  "dgSpecHash": "PYYntxzmVxhGDyF+Jdp1Jg7fupzaZWNtzCqm3TfKsEvOeGpT1UG65EUG+kaYwUP05yG+EFyr1A/1kydXveFupg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jochen.JOTGE\\source\\repos\\EF\\EF.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,8 @@
     "C:\\Users\\jochen.JOTGE\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\jochen.JOTGE\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\jochen.JOTGE\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\jochen.JOTGE\\.nuget\\packages\\mysqlconnector\\1.1.0\\mysqlconnector.1.1.0.nupkg.sha512",
+    "C:\\Users\\jochen.JOTGE\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\5.0.0-alpha.2\\pomelo.entityframeworkcore.mysql.5.0.0-alpha.2.nupkg.sha512",
     "C:\\Users\\jochen.JOTGE\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\jochen.JOTGE\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\jochen.JOTGE\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"

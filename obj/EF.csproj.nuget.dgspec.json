@@ -47,6 +47,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.0-alpha.2, )"
             }
           },
           "imports": [
